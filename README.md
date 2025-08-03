@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Laplas Rouse
-- 👀 I’m interested in Software Engineering, Trading
-- 🌱 I’m currently learning Computer Science, C++ and Trading 
+- 🌱 I’m currently trying be my best 
 - 📫 How to reach me:
-- - - Telegram: LaplasRouse
-- ⚡ Fun fact:
-- - - I work in circus almost 10 years of my life.
+- - - Telegram: @LaplasRouse
 
 <!---
 LaplasRouse/LaplasRouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
